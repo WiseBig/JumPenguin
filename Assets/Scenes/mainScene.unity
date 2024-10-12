@@ -167,6 +167,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 706588235e3ca8845bba52e7a5e4e320, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  gameDataResetText: {fileID: 648613483}
 --- !u!1 &4247848
 GameObject:
   m_ObjectHideFlags: 0
@@ -1423,7 +1424,7 @@ GameObject:
   - component: {fileID: 648613486}
   - component: {fileID: 648613485}
   m_Layer: 5
-  m_Name: Text (Legacy)
+  m_Name: gameDataResetText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
